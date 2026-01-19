@@ -103,8 +103,9 @@ This project follows a **clean, scalable architecture** and is suitable for **pr
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Abubakrpython/Telegram-Broadcast-Admin-Management-Bot--.git
+
+
 2️⃣ Create virtual environment
 python -m venv venv
 source venv/bin/activate   # Linux / macOS
